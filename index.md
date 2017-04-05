@@ -4,4 +4,4 @@
 
 This is now a page for CS570
 
-![Resume](https://nanfier.github.io/Resume.pdf)
+[Resume](https://nanfier.github.io/Resume.pdf)
