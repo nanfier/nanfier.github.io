@@ -4,4 +4,4 @@
 
 This is now a page for CS570
 
-![Link](Resume.pdf)
+![Resume](/Resume.pdf)
