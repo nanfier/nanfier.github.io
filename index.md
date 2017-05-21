@@ -12,4 +12,4 @@ This is now a page for CS570
 
 [HW4 Instructions(running by eclipse)](https://nanfier.github.io/InstructionsHW4.pdf)
 
-[HW4 Briefing](https://nanfier.github.io/SukhvirSidhuHW2.pdf)
+[HW4 Briefing](https://nanfier.github.io/SukhvirSidhuHW2 .pdf)
