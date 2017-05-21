@@ -8,4 +8,4 @@ This is now a page for CS570
 
 [HW1](https://nanfier.github.io/CS570_HW1.pdf)
 
-[HW4](https://nanfier.github.io/HCI.jar)
+[HW4](https://nanfier.github.io/)
