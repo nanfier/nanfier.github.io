@@ -8,7 +8,7 @@ This is now a page for CS570
 
 [HW1](https://nanfier.github.io/CS570_HW1.pdf)
 
-[HW4](https://nanfier.github.io/HCI_HW4.zip)
+[HW4](https://nanfier.github.io/HCI HW4.zip)
 
 [HW4 Instructions(application windows developed by eclipse)](https://nanfier.github.io/InstructionsHW4.pdf)
 
