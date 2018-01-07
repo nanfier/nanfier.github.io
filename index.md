@@ -2,14 +2,6 @@
 
 ![Image](profile.png)
 
-This is now a page for CS570
+This is now a page for CS75
 
 [Resume](https://nanfier.github.io/Resume.pdf)
-
-[HW1](https://nanfier.github.io/CS570_HW1.pdf)
-
-[HW4](https://nanfier.github.io/HW4_HCL.zip)
-
-[HW4 Instructions(application windows developed by eclipse)](https://nanfier.github.io/InstructionsHW4.pdf)
-
-[HW4 Briefing](https://nanfier.github.io/SukhvirSidhuHW2.pdf)
